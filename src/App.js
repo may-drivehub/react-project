@@ -20,6 +20,7 @@ class App extends Component {
             This is dev branch. !!!!!!!!  Test Auto deploy
           </p>
           <Button bsStyle="warning" bsSize="large"> Test Button </Button>
+          <Button bsStyle="warning" bsSize="large"> Test Button2 </Button>
         </Jumbotron>
       </div>
     );
