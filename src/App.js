@@ -19,7 +19,7 @@ class App extends Component {
             To get started, edit <code>src/App.js</code> and save to reload.
             This is dev branch. !!!!!!!! 
           </p>
-          <Button bsStyle="warning" bsSize="small"> Test Bootstrap Button </Button>
+          <Button bsStyle="warning" bsSize="small"> Test Button </Button>
         </Jumbotron>
       </div>
     );
